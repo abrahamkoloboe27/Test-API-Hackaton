@@ -1,0 +1,7 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+speechrecognition==3.8.1
+audioread==2.1.9
+googletrans==4.0.0-rc1
+requests==2.26.0
+
