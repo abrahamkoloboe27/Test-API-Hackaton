@@ -113,4 +113,12 @@ def main():
 
 
 if __name__ == "__main__":
-  main()
+    with st.sidebar : 
+        st.markdown("""
+        ## Auteur
+        :blue[Abraham KOLOBOE]
+        * Email : <abklb27@gmail.com>
+        * WhatsApp : +229 91 83 84 21
+        * Linkedin : [Abraham KOLOBOE](https://www.linkedin.com/in/abraham-zacharie-koloboe-data-science-ia-generative-llms-machine-learning)
+                    """)
+    main()
